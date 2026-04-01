@@ -130,7 +130,7 @@ export default function HomePage() {
                   Universidade Católica de Santos (Unisantos)
                 </p>
                 <p className="mt-1 text-xs text-slate-500">
-                  Início: fevereiro de 2024 · Previsão de conclusão: (preencher)
+                  Início: fevereiro de 2024 · Previsão de conclusão: dezembro de 2028
                 </p>
                 <p className="mt-3 text-sm text-slate-600">
                   Áreas de interesse: clínica médica, cirúrgica, pronto
